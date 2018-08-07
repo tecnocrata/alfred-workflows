@@ -215,6 +215,11 @@ Upload files and directories for easy sharing
 
 [info](https://github.com/vitorgalvao/alfred-workflows/tree/master/UploadFile) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/UploadFile/UploadFile.alfredworkflow)
 
+### UseClear <img src='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/UseClear/source/icon.png' width='60' align='center' alt='UseClear icon'>
+Interact with Clear’s lists
+
+[info](https://github.com/vitorgalvao/alfred-workflows/tree/master/UseClear) | [download](https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/UseClear/UseClear.alfredworkflow)
+
 ### VideoDuration <img src='https://raw.githubusercontent.com/vitorgalvao/alfred-workflows/master/VideoDuration/source/icon.png' width='60' align='center' alt='VideoDuration icon'>
 Outputs the url of a video on a supported website with its duration in square brackets
 
